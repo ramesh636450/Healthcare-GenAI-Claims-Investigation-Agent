@@ -65,7 +65,16 @@ Healthcare insurance claim review automation:
 - Fraud indicator analysis
 - Denial risk assessment
 - Audit recommendations
+## Add
+## Application Screenshots
 
+### Streamlit Interface
+
+![Claims UI](claims_ui.png)
+
+### Investigation Report
+
+![AI Report](investigation_report.png)
 
 ## Author
 
