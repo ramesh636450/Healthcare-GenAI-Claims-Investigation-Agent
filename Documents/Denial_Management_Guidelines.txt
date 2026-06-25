@@ -1,0 +1,16 @@
+Common Healthcare Claim Denial Reasons
+
+Authorization Denial:
+Occurs when required approval is missing before service.
+
+Coding Denial:
+Occurs due to incorrect CPT or ICD coding.
+
+Documentation Denial:
+Occurs when medical records do not support the claim.
+
+Eligibility Denial:
+Occurs when patient coverage is inactive.
+
+Duplicate Claim Denial:
+Occurs when the same claim is submitted multiple times.

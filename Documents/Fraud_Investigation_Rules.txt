@@ -1,0 +1,15 @@
+Fraud Investigation Indicators
+
+Duplicate billing patterns.
+
+Unusual billing frequency.
+
+Incorrect patient information.
+
+Repeated high-cost procedures.
+
+Provider claim anomalies.
+
+Billing services that do not match clinical documentation.
+
+Multiple claims for the same service.

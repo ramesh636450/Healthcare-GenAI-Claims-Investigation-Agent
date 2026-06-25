@@ -1,0 +1,11 @@
+Healthcare Coding Guidelines
+
+ICD codes represent diagnosis information.
+
+CPT codes represent medical procedures and services.
+
+Incorrect coding can cause claim rejection.
+
+Coding accuracy improves reimbursement.
+
+Missing or incorrect codes may result in payment delays.
